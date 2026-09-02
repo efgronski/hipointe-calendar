@@ -1,0 +1,1154 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Hi-Pointe Theatre Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hi-Pointe Theatre
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+SUMMARY:🎬 Teenage Sex and Death at Camp Miasma
+DTSTART;TZID=America/Chicago:20260901T163000
+DTEND;TZID=America/Chicago:20260901T183000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-597517@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/tee
+ nage-sex-and-death-at-camp-miasma/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/teenage-sex-and-death-at-camp-miasm
+ a/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Captain Blood
+DTSTART;TZID=America/Chicago:20260901T190000
+DTEND;TZID=America/Chicago:20260901T205900
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-573618@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 119 minutes\nFormat: DCP\nDirector: Michael Curtiz\nR
+ elease Year: 1935\nLanguage: English\n\nhttps://hipointetheatre.org/movies
+ /captain-blood/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/captain-blood/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Teenage Sex and Death at Camp Miasma
+DTSTART;TZID=America/Chicago:20260902T163000
+DTEND;TZID=America/Chicago:20260902T183000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-612234@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/tee
+ nage-sex-and-death-at-camp-miasma/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/teenage-sex-and-death-at-camp-miasm
+ a/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Saturday Night Fever (35MM)
+DTSTART;TZID=America/Chicago:20260902T190000
+DTEND;TZID=America/Chicago:20260902T210000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-573619@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/sat
+ urday-night-fever-35mm/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/saturday-night-fever-35mm/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Sleepaway Camp
+DTSTART;TZID=America/Chicago:20260903T183000
+DTEND;TZID=America/Chicago:20260903T203000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-590684@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/sle
+ epaway-camp/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/sleepaway-camp/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Teenage Sex and Death at Camp Miasma
+DTSTART;TZID=America/Chicago:20260903T201500
+DTEND;TZID=America/Chicago:20260903T221500
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-577642@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/tee
+ nage-sex-and-death-at-camp-miasma/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/teenage-sex-and-death-at-camp-miasm
+ a/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 American Doctor
+DTSTART;TZID=America/Chicago:20260904T160000
+DTEND;TZID=America/Chicago:20260904T173300
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-612254@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 93 minutes\nFormat: DCP\nDirector: Poh Si Teng\nRelea
+ se Year: 2026\nLanguage: English\n\nhttps://hipointetheatre.org/movies/ame
+ rican-doctor/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/american-doctor/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 American Doctor
+DTSTART;TZID=America/Chicago:20260904T181500
+DTEND;TZID=America/Chicago:20260904T194800
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-573633@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 93 minutes\nFormat: DCP\nDirector: Poh Si Teng\nRelea
+ se Year: 2026\nLanguage: English\n\nhttps://hipointetheatre.org/movies/ame
+ rican-doctor/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/american-doctor/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 The Samurai and the Prisoner
+DTSTART;TZID=America/Chicago:20260904T203000
+DTEND;TZID=America/Chicago:20260904T225700
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-573635@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 147 minutes\nFormat: DCP\nDirector: Kiyoshi Kurosawa\
+ nRelease Year: 2026\nLanguage: Japanese\n\nhttps://hipointetheatre.org/mov
+ ies/the-samurai-and-the-prisoner/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 CatVideoFest 2026
+DTSTART;TZID=America/Chicago:20260905T123000
+DTEND;TZID=America/Chicago:20260905T134000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-580949@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 70 minutes\nFormat: DCP\nDirector: Will Braden\nRelea
+ se Year: 2026\nLanguage: English\n\nhttps://hipointetheatre.org/movies/cat
+ videofest-2026/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/catvideofest-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 CatVideoFest 2026
+DTSTART;TZID=America/Chicago:20260905T141500
+DTEND;TZID=America/Chicago:20260905T152500
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-581585@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 70 minutes\nFormat: DCP\nDirector: Will Braden\nRelea
+ se Year: 2026\nLanguage: English\n\nhttps://hipointetheatre.org/movies/cat
+ videofest-2026/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/catvideofest-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 American Doctor
+DTSTART;TZID=America/Chicago:20260905T160000
+DTEND;TZID=America/Chicago:20260905T173300
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-573663@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 93 minutes\nFormat: DCP\nDirector: Poh Si Teng\nRelea
+ se Year: 2026\nLanguage: English\n\nhttps://hipointetheatre.org/movies/ame
+ rican-doctor/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/american-doctor/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 The Samurai and the Prisoner
+DTSTART;TZID=America/Chicago:20260905T183000
+DTEND;TZID=America/Chicago:20260905T205700
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-578291@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 147 minutes\nFormat: DCP\nDirector: Kiyoshi Kurosawa\
+ nRelease Year: 2026\nLanguage: Japanese\n\nhttps://hipointetheatre.org/mov
+ ies/the-samurai-and-the-prisoner/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Blade
+DTSTART;TZID=America/Chicago:20260905T213000
+DTEND;TZID=America/Chicago:20260905T233100
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-581601@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 121 minutes\nFormat: DCP\nDirector: Stephen Norringto
+ n\nRelease Year: 1998\nLanguage: English\n\nhttps://hipointetheatre.org/mo
+ vies/blade/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/blade/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Gregory's Girl
+DTSTART;TZID=America/Chicago:20260906T123000
+DTEND;TZID=America/Chicago:20260906T140100
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-596423@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 91 minutes\nFormat: DCP\nDirector: Bill Forsyth\nRele
+ ase Year: 1980\nLanguage: English\n\nhttps://hipointetheatre.org/movies/gr
+ egorys-girl/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/gregorys-girl/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 CatVideoFest 2026
+DTSTART;TZID=America/Chicago:20260906T150000
+DTEND;TZID=America/Chicago:20260906T161000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-580960@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 70 minutes\nFormat: DCP\nDirector: Will Braden\nRelea
+ se Year: 2026\nLanguage: English\n\nhttps://hipointetheatre.org/movies/cat
+ videofest-2026/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/catvideofest-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 American Doctor
+DTSTART;TZID=America/Chicago:20260906T164500
+DTEND;TZID=America/Chicago:20260906T181800
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-580971@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 93 minutes\nFormat: DCP\nDirector: Poh Si Teng\nRelea
+ se Year: 2026\nLanguage: English\n\nhttps://hipointetheatre.org/movies/ame
+ rican-doctor/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/american-doctor/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 The Samurai and the Prisoner
+DTSTART;TZID=America/Chicago:20260906T190000
+DTEND;TZID=America/Chicago:20260906T212700
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-580972@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 147 minutes\nFormat: DCP\nDirector: Kiyoshi Kurosawa\
+ nRelease Year: 2026\nLanguage: Japanese\n\nhttps://hipointetheatre.org/mov
+ ies/the-samurai-and-the-prisoner/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 CohortNYC Film Lab public screening + talkback
+DTSTART;TZID=America/Chicago:20260907T193000
+DTEND;TZID=America/Chicago:20260907T213000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-613352@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\nFormat: Digital Projection September 7th
+  is the culminating screening for Cohort’s latest St. Louis Film Lab. Lo
+ cal filmmakers formed teams and had two weeks to create original short fil
+ ms from a shared creative prompt. The screening brings everyone back toget
+ her to premiere the films and celebrate the work. Cohort is a multi-city c
+ reative network and production company built around connecting emerging fi
+ lmmakers with collaborators\, resources\, and real production opportunitie
+ s. Through our Film Labs\, creators meet\, form teams\, make work together
+ \, and can continue into Cohort’s larger production network. Website: ht
+ tps://cohortnyc.com Cinema St. Louis Policies Parking & Directions Accessi
+ bility Contact Copyright © 2026\n\nhttps://hipointetheatre.org/movies/coh
+ ortnyc-film-lab-screening/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/cohortnyc-film-lab-screening/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 The Samurai and the Prisoner
+DTSTART;TZID=America/Chicago:20260908T160000
+DTEND;TZID=America/Chicago:20260908T182700
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-590522@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 147 minutes\nFormat: DCP\nDirector: Kiyoshi Kurosawa\
+ nRelease Year: 2026\nLanguage: Japanese\n\nhttps://hipointetheatre.org/mov
+ ies/the-samurai-and-the-prisoner/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Bride of Frankenstein (4K Restoration)
+DTSTART;TZID=America/Chicago:20260908T190000
+DTEND;TZID=America/Chicago:20260908T201500
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-582004@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 75 minutes\nFormat: 4K DCP\nDirector: James Whale\nRe
+ lease Year: 1935\nLanguage: English\n\nhttps://hipointetheatre.org/movies/
+ bride-of-frankenstein-4k-restoration/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/bride-of-frankenstein-4k-restoratio
+ n/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Hope
+DTSTART;TZID=America/Chicago:20260909T190000
+DTEND;TZID=America/Chicago:20260909T210000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-582154@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/hop
+ e/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/hope/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Ace in the Hole (35MM)
+DTSTART;TZID=America/Chicago:20260910T130000
+DTEND;TZID=America/Chicago:20260910T145200
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-582044@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 112 minutes\nFormat: 35mm Film\nDirector: Billy Wilde
+ r\nRelease Year: 1951\nLanguage: English\n\nhttps://hipointetheatre.org/mo
+ vies/ace-in-the-hole-35mm/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/ace-in-the-hole-35mm/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Hope
+DTSTART;TZID=America/Chicago:20260910T161500
+DTEND;TZID=America/Chicago:20260910T181500
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-582155@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/hop
+ e/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/hope/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Ace in the Hole (35MM)
+DTSTART;TZID=America/Chicago:20260910T193000
+DTEND;TZID=America/Chicago:20260910T212200
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-582046@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 112 minutes\nFormat: 35mm Film\nDirector: Billy Wilde
+ r\nRelease Year: 1951\nLanguage: English\n\nhttps://hipointetheatre.org/mo
+ vies/ace-in-the-hole-35mm/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/ace-in-the-hole-35mm/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Hope
+DTSTART;TZID=America/Chicago:20260911T150000
+DTEND;TZID=America/Chicago:20260911T170000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-584153@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/hop
+ e/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/hope/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 ROUTE 66: THE MAIN STREET OF AMERICA - Missouri State Premier
+ e!
+DTSTART;TZID=America/Chicago:20260911T190000
+DTEND;TZID=America/Chicago:20260911T210000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-560152@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/rou
+ te-66-the-main-street-of-america/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/route-66-the-main-street-of-america
+ /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Cars
+DTSTART;TZID=America/Chicago:20260912T133000
+DTEND;TZID=America/Chicago:20260912T152700
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-589475@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 117 minutes\nFormat: DCP\nDirector: John Lasseter\nRe
+ lease Year: 2006\nLanguage: English\n\nhttps://hipointetheatre.org/movies/
+ cars/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/cars/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Little Miss Sunshine
+DTSTART;TZID=America/Chicago:20260912T160000
+DTEND;TZID=America/Chicago:20260912T180000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-589670@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/lit
+ tle-miss-sunshine/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/little-miss-sunshine/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 National Lampoon's Vacation
+DTSTART;TZID=America/Chicago:20260912T181500
+DTEND;TZID=America/Chicago:20260912T201500
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-589682@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/nat
+ ional-lampoons-vacation/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/national-lampoons-vacation/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Hope
+DTSTART;TZID=America/Chicago:20260912T203000
+DTEND;TZID=America/Chicago:20260912T223000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-582159@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/hop
+ e/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/hope/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Paper Moon
+DTSTART;TZID=America/Chicago:20260913T123000
+DTEND;TZID=America/Chicago:20260913T143000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-589510@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/pap
+ er-moon/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/paper-moon/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Midnight Run
+DTSTART;TZID=America/Chicago:20260913T144500
+DTEND;TZID=America/Chicago:20260913T164500
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-592586@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/mid
+ night-run/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/midnight-run/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Hope
+DTSTART;TZID=America/Chicago:20260913T173000
+DTEND;TZID=America/Chicago:20260913T193000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-584189@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/hop
+ e/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/hope/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Hope
+DTSTART;TZID=America/Chicago:20260914T190000
+DTEND;TZID=America/Chicago:20260914T210000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-584155@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/hop
+ e/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/hope/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Hope
+DTSTART;TZID=America/Chicago:20260915T154500
+DTEND;TZID=America/Chicago:20260915T174500
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-588869@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/hop
+ e/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/hope/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Stagecoach
+DTSTART;TZID=America/Chicago:20260915T190000
+DTEND;TZID=America/Chicago:20260915T210000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-582006@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/sta
+ gecoach/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/stagecoach/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Hope
+DTSTART;TZID=America/Chicago:20260916T160000
+DTEND;TZID=America/Chicago:20260916T180000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-588871@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/hop
+ e/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/hope/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Starship Troopers
+DTSTART;TZID=America/Chicago:20260916T193000
+DTEND;TZID=America/Chicago:20260916T213000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-588178@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/sta
+ rship-troopers/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/starship-troopers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Witness for the Prosecution
+DTSTART;TZID=America/Chicago:20260917T130000
+DTEND;TZID=America/Chicago:20260917T150000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-582049@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/wit
+ ness-for-the-prosecution/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/witness-for-the-prosecution/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Hope
+DTSTART;TZID=America/Chicago:20260917T160000
+DTEND;TZID=America/Chicago:20260917T180000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-584154@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/hop
+ e/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/hope/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Late Fame
+DTSTART;TZID=America/Chicago:20260918T170000
+DTEND;TZID=America/Chicago:20260918T190000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-596291@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/lat
+ e-fame/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Late Fame
+DTSTART;TZID=America/Chicago:20260918T190000
+DTEND;TZID=America/Chicago:20260918T210000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-592981@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/lat
+ e-fame/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Dead Souls
+DTSTART;TZID=America/Chicago:20260918T210000
+DTEND;TZID=America/Chicago:20260918T222800
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-594894@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 88 minutes\nFormat: DCP\nDirector: Alex Cox\nRelease 
+ Year: 2025\nLanguage: English\n\nhttps://hipointetheatre.org/movies/dead-s
+ ouls/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/dead-souls/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Late Fame
+DTSTART;TZID=America/Chicago:20260919T124500
+DTEND;TZID=America/Chicago:20260919T144500
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-594931@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/lat
+ e-fame/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Dead Souls
+DTSTART;TZID=America/Chicago:20260919T150000
+DTEND;TZID=America/Chicago:20260919T162800
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-596268@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 88 minutes\nFormat: DCP\nDirector: Alex Cox\nRelease 
+ Year: 2025\nLanguage: English\n\nhttps://hipointetheatre.org/movies/dead-s
+ ouls/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/dead-souls/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Late Fame
+DTSTART;TZID=America/Chicago:20260919T170000
+DTEND;TZID=America/Chicago:20260919T190000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-596284@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/lat
+ e-fame/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Dead Souls
+DTSTART;TZID=America/Chicago:20260919T190000
+DTEND;TZID=America/Chicago:20260919T202800
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-590529@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 88 minutes\nFormat: DCP\nDirector: Alex Cox\nRelease 
+ Year: 2025\nLanguage: English\n\nhttps://hipointetheatre.org/movies/dead-s
+ ouls/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/dead-souls/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 The Man Who Fell to Earth (50th Anniversary)
+DTSTART;TZID=America/Chicago:20260919T210000
+DTEND;TZID=America/Chicago:20260919T230000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-596292@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/the
+ -man-who-fell-to-earth/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/the-man-who-fell-to-earth/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Witness for the Prosecution
+DTSTART;TZID=America/Chicago:20260920T120000
+DTEND;TZID=America/Chicago:20260920T140000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-582051@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/wit
+ ness-for-the-prosecution/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/witness-for-the-prosecution/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Clue
+DTSTART;TZID=America/Chicago:20260920T150000
+DTEND;TZID=America/Chicago:20260920T163400
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-582163@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 94 minutes\nFormat: DCP\nDirector: Jonathan Lynn\nRel
+ ease Year: 1985\nLanguage: English\nScreening note: w/ FOX\n\nhttps://hipo
+ intetheatre.org/movies/clue/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/clue/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Late Fame
+DTSTART;TZID=America/Chicago:20260920T173000
+DTEND;TZID=America/Chicago:20260920T193000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-594966@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/lat
+ e-fame/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Dead Souls
+DTSTART;TZID=America/Chicago:20260920T193000
+DTEND;TZID=America/Chicago:20260920T205800
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-596301@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 88 minutes\nFormat: DCP\nDirector: Alex Cox\nRelease 
+ Year: 2025\nLanguage: English\n\nhttps://hipointetheatre.org/movies/dead-s
+ ouls/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/dead-souls/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 The Man Who Fell to Earth (50th Anniversary)
+DTSTART;TZID=America/Chicago:20260921T190000
+DTEND;TZID=America/Chicago:20260921T210000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-591439@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/the
+ -man-who-fell-to-earth/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/the-man-who-fell-to-earth/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 The Wizard of Oz (4K Restoration)
+DTSTART;TZID=America/Chicago:20260922T190000
+DTEND;TZID=America/Chicago:20260922T210000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-582015@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/the
+ -wizard-of-oz/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/the-wizard-of-oz/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Love in the Afternoon
+DTSTART;TZID=America/Chicago:20260924T130000
+DTEND;TZID=America/Chicago:20260924T150000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-584102@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/lov
+ e-in-the-afternoon/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/love-in-the-afternoon/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Union County
+DTSTART;TZID=America/Chicago:20260925T173000
+DTEND;TZID=America/Chicago:20260925T193000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-599374@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/uni
+ on-county-2/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/union-county-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Ha-Chan\, Shake Your Booty!
+DTSTART;TZID=America/Chicago:20260925T193000
+DTEND;TZID=America/Chicago:20260925T213200
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-605273@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 122 minutes\nFormat: DCP\nDirector: Josef Kubota Wlad
+ yka\nRelease Year: 2026\nLanguage: English\n\nhttps://hipointetheatre.org/
+ movies/ha-chan-shake-your-booty/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/ha-chan-shake-your-booty/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 CANNIBAL HOLOCAUST — UNCUT
+DTSTART;TZID=America/Chicago:20260925T220000
+DTEND;TZID=America/Chicago:20260925T233500
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-582183@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 95 minutes\nFormat: 4K DCP\nDirector: Ruggero Deodato
+ \nRelease Year: 1980\nLanguage: In Spanish\, English and Italian with Engl
+ ish subtitles.\n\nhttps://hipointetheatre.org/movies/cannibal-holocaust-un
+ cut/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/cannibal-holocaust-uncut/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Nine to Five
+DTSTART;TZID=America/Chicago:20260926T123000
+DTEND;TZID=America/Chicago:20260926T143000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-605286@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/nin
+ e-to-five/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/nine-to-five/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Steel Magnolias
+DTSTART;TZID=America/Chicago:20260926T150000
+DTEND;TZID=America/Chicago:20260926T170000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-613257@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/ste
+ el-magnolias/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/steel-magnolias/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Union County
+DTSTART;TZID=America/Chicago:20260926T173000
+DTEND;TZID=America/Chicago:20260926T193000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-605280@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/uni
+ on-county-2/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/union-county-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Ha-Chan\, Shake Your Booty!
+DTSTART;TZID=America/Chicago:20260926T193000
+DTEND;TZID=America/Chicago:20260926T213200
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-605279@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 122 minutes\nFormat: DCP\nDirector: Josef Kubota Wlad
+ yka\nRelease Year: 2026\nLanguage: English\n\nhttps://hipointetheatre.org/
+ movies/ha-chan-shake-your-booty/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/ha-chan-shake-your-booty/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 CANNIBAL HOLOCAUST — UNCUT
+DTSTART;TZID=America/Chicago:20260926T220000
+DTEND;TZID=America/Chicago:20260926T233500
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-582184@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 95 minutes\nFormat: 4K DCP\nDirector: Ruggero Deodato
+ \nRelease Year: 1980\nLanguage: In Spanish\, English and Italian with Engl
+ ish subtitles.\n\nhttps://hipointetheatre.org/movies/cannibal-holocaust-un
+ cut/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/cannibal-holocaust-uncut/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Love in the Afternoon
+DTSTART;TZID=America/Chicago:20260927T121500
+DTEND;TZID=America/Chicago:20260927T141500
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-582057@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/lov
+ e-in-the-afternoon/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/love-in-the-afternoon/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Union County
+DTSTART;TZID=America/Chicago:20260927T150000
+DTEND;TZID=America/Chicago:20260927T170000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-613206@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/uni
+ on-county-2/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/union-county-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Ha-Chan\, Shake Your Booty!
+DTSTART;TZID=America/Chicago:20260927T170000
+DTEND;TZID=America/Chicago:20260927T190200
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-613249@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 122 minutes\nFormat: DCP\nDirector: Josef Kubota Wlad
+ yka\nRelease Year: 2026\nLanguage: English\n\nhttps://hipointetheatre.org/
+ movies/ha-chan-shake-your-booty/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/ha-chan-shake-your-booty/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Union County
+DTSTART;TZID=America/Chicago:20260927T193000
+DTEND;TZID=America/Chicago:20260927T213000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-613269@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/uni
+ on-county-2/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/union-county-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Ha-Chan\, Shake Your Booty!
+DTSTART;TZID=America/Chicago:20260928T163000
+DTEND;TZID=America/Chicago:20260928T183200
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-613219@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 122 minutes\nFormat: DCP\nDirector: Josef Kubota Wlad
+ yka\nRelease Year: 2026\nLanguage: English\n\nhttps://hipointetheatre.org/
+ movies/ha-chan-shake-your-booty/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/ha-chan-shake-your-booty/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Union County
+DTSTART;TZID=America/Chicago:20260928T190000
+DTEND;TZID=America/Chicago:20260928T210000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-613217@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/uni
+ on-county-2/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/union-county-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Ha-Chan\, Shake Your Booty!
+DTSTART;TZID=America/Chicago:20260929T160000
+DTEND;TZID=America/Chicago:20260929T180200
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-613279@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 122 minutes\nFormat: DCP\nDirector: Josef Kubota Wlad
+ yka\nRelease Year: 2026\nLanguage: English\n\nhttps://hipointetheatre.org/
+ movies/ha-chan-shake-your-booty/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/ha-chan-shake-your-booty/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Now\, Voyager (4K Restoration)
+DTSTART;TZID=America/Chicago:20260929T190000
+DTEND;TZID=America/Chicago:20260929T210000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-582017@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/now
+ -voyager-4k-restoration/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/now-voyager-4k-restoration/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Union County
+DTSTART;TZID=America/Chicago:20260930T163000
+DTEND;TZID=America/Chicago:20260930T183000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-613344@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/uni
+ on-county-2/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/union-county-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Three Kings (35MM)
+DTSTART;TZID=America/Chicago:20260930T190000
+DTEND;TZID=America/Chicago:20260930T210000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-613330@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/thr
+ ee-kings-35mm/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/three-kings-35mm/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Bataan
+DTSTART;TZID=America/Chicago:20261006T190000
+DTEND;TZID=America/Chicago:20261006T205400
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-582019@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 114 minutes\nFormat: DCP\nDirector: Tay Garnett\nRele
+ ase Year: 1943\nLanguage: English\n\nhttps://hipointetheatre.org/movies/ba
+ taan/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/bataan/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Laura (4K Restoration)
+DTSTART;TZID=America/Chicago:20261013T190000
+DTEND;TZID=America/Chicago:20261013T210000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-582029@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/lau
+ ra-4k-restoration/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/laura-4k-restoration/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 The Rocky Horror Picture Show
+DTSTART;TZID=America/Chicago:20261017T220000
+DTEND;TZID=America/Chicago:20261018T000000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-604055@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/the
+ -rocky-horror-picture-show/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/the-rocky-horror-picture-show/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 The Lost Weekend (4K Restoration)
+DTSTART;TZID=America/Chicago:20261020T190000
+DTEND;TZID=America/Chicago:20261020T210000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-582031@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/the
+ -lost-weekend-4k-restoration/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/the-lost-weekend-4k-restoration/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 Anchors Aweigh
+DTSTART;TZID=America/Chicago:20261027T190000
+DTEND;TZID=America/Chicago:20261027T212300
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-582033@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 143 minutes\nFormat: DCP\nDirector: George Sidney\nRe
+ lease Year: 1945\nLanguage: English\n\nhttps://hipointetheatre.org/movies/
+ anchors-aweigh/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/anchors-aweigh/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 The Best Years of Our Lives (4K Restoration)
+DTSTART;TZID=America/Chicago:20261103T190000
+DTEND;TZID=America/Chicago:20261103T210000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-582035@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/the
+ -best-years-of-our-lives-4k-restoration/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/the-best-years-of-our-lives-4k-rest
+ oration/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 A Streetcar Named Desire (35MM)
+DTSTART;TZID=America/Chicago:20261117T190000
+DTEND;TZID=America/Chicago:20261117T210500
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-582037@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 125 minutes\nFormat: 35mm Film\nDirector: Elia Kazan\
+ nRelease Year: 1951\nLanguage: English\n\nhttps://hipointetheatre.org/movi
+ es/a-streetcar-named-desire-35mm/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/a-streetcar-named-desire-35mm/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 The Found Footage Fest: Porcelain VHS Treasures
+DTSTART;TZID=America/Chicago:20261121T193000
+DTEND;TZID=America/Chicago:20261121T213000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-604042@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/the
+ -found-footage-fest-porcelain-vhs-treasures/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/the-found-footage-fest-porcelain-vh
+ s-treasures/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 The Band Wagon (35MM)
+DTSTART;TZID=America/Chicago:20261124T190000
+DTEND;TZID=America/Chicago:20261124T210000
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-582040@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 120 minutes\n\nhttps://hipointetheatre.org/movies/the
+ -band-wagon-35mm/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/the-band-wagon-35mm/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎬 On the Waterfront (35MM)
+DTSTART;TZID=America/Chicago:20261201T190000
+DTEND;TZID=America/Chicago:20261201T204800
+DTSTAMP:20260902T173410Z
+UID:hipointe-performance-582042@hipointe-calendar
+SEQUENCE:0
+DESCRIPTION:Runtime: 108 minutes\nFormat: 35mm Film\nDirector: Elia Kazan\
+ nRelease Year: 1954\nLanguage: English\n\nhttps://hipointetheatre.org/movi
+ es/on-the-waterfront-35mm/
+LOCATION:Hi-Pointe Theatre\n1005 McCausland Ave\nSt. Louis\, MO 63117
+STATUS:CONFIRMED
+URL:https://hipointetheatre.org/movies/on-the-waterfront-35mm/
+END:VEVENT
+END:VCALENDAR
