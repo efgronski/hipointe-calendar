@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Teenage Sex and Death at Camp Miasma
 DTSTART;TZID=America/Chicago:20260901T163000
 DTEND;TZID=America/Chicago:20260901T182200
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-597517@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 112 minutes\nFormat: DCP\nDirector: Jane Schoenbrun\n
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Captain Blood
 DTSTART;TZID=America/Chicago:20260901T190000
 DTEND;TZID=America/Chicago:20260901T205900
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-573618@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 119 minutes\nFormat: DCP\nDirector: Michael Curtiz\nR
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Teenage Sex and Death at Camp Miasma
 DTSTART;TZID=America/Chicago:20260902T163000
 DTEND;TZID=America/Chicago:20260902T182200
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-612234@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 112 minutes\nFormat: DCP\nDirector: Jane Schoenbrun\n
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Saturday Night Fever (35MM)
 DTSTART;TZID=America/Chicago:20260902T190000
 DTEND;TZID=America/Chicago:20260902T205800
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-573619@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 118 minutes\nFormat: 35mm Film\nDirector: John Badham
@@ -67,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Sleepaway Camp
 DTSTART;TZID=America/Chicago:20260903T183000
 DTEND;TZID=America/Chicago:20260903T195500
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-590684@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 85 minutes\nFormat: DCP\nDirector: Robert Hiltzik\nRe
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Teenage Sex and Death at Camp Miasma
 DTSTART;TZID=America/Chicago:20260903T201500
 DTEND;TZID=America/Chicago:20260903T220700
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-577642@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 112 minutes\nFormat: DCP\nDirector: Jane Schoenbrun\n
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 American Doctor
 DTSTART;TZID=America/Chicago:20260904T160000
 DTEND;TZID=America/Chicago:20260904T173300
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-612254@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 93 minutes\nFormat: DCP\nDirector: Poh Si Teng\nRelea
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 American Doctor
 DTSTART;TZID=America/Chicago:20260904T181500
 DTEND;TZID=America/Chicago:20260904T194800
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-573633@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 93 minutes\nFormat: DCP\nDirector: Poh Si Teng\nRelea
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 The Samurai and the Prisoner
 DTSTART;TZID=America/Chicago:20260904T203000
 DTEND;TZID=America/Chicago:20260904T225700
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-573635@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 147 minutes\nFormat: DCP\nDirector: Kiyoshi Kurosawa\
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 CatVideoFest 2026
 DTSTART;TZID=America/Chicago:20260905T123000
 DTEND;TZID=America/Chicago:20260905T134000
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-580949@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 70 minutes\nFormat: DCP\nDirector: Will Braden\nRelea
@@ -152,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 CatVideoFest 2026
 DTSTART;TZID=America/Chicago:20260905T141500
 DTEND;TZID=America/Chicago:20260905T152500
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-581585@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 70 minutes\nFormat: DCP\nDirector: Will Braden\nRelea
@@ -166,7 +166,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 American Doctor
 DTSTART;TZID=America/Chicago:20260905T160000
 DTEND;TZID=America/Chicago:20260905T173300
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-573663@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 93 minutes\nFormat: DCP\nDirector: Poh Si Teng\nRelea
@@ -180,7 +180,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 The Samurai and the Prisoner
 DTSTART;TZID=America/Chicago:20260905T183000
 DTEND;TZID=America/Chicago:20260905T205700
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-578291@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 147 minutes\nFormat: DCP\nDirector: Kiyoshi Kurosawa\
@@ -194,7 +194,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Blade
 DTSTART;TZID=America/Chicago:20260905T213000
 DTEND;TZID=America/Chicago:20260905T233100
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-581601@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 121 minutes\nFormat: DCP\nDirector: Stephen Norringto
@@ -208,7 +208,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Gregory's Girl
 DTSTART;TZID=America/Chicago:20260906T123000
 DTEND;TZID=America/Chicago:20260906T140100
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-596423@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 91 minutes\nFormat: DCP\nDirector: Bill Forsyth\nRele
@@ -222,7 +222,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 CatVideoFest 2026
 DTSTART;TZID=America/Chicago:20260906T150000
 DTEND;TZID=America/Chicago:20260906T161000
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-580960@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 70 minutes\nFormat: DCP\nDirector: Will Braden\nRelea
@@ -236,7 +236,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 American Doctor
 DTSTART;TZID=America/Chicago:20260906T164500
 DTEND;TZID=America/Chicago:20260906T181800
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-580971@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 93 minutes\nFormat: DCP\nDirector: Poh Si Teng\nRelea
@@ -250,7 +250,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 The Samurai and the Prisoner
 DTSTART;TZID=America/Chicago:20260906T190000
 DTEND;TZID=America/Chicago:20260906T212700
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-580972@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 147 minutes\nFormat: DCP\nDirector: Kiyoshi Kurosawa\
@@ -264,7 +264,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 CohortNYC Film Lab public screening + talkback
 DTSTART;TZID=America/Chicago:20260907T193000
 DTEND;TZID=America/Chicago:20260907T213000
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-613352@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 120 minutes\nFormat: Digital Projection September 7th
@@ -287,7 +287,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 The Samurai and the Prisoner
 DTSTART;TZID=America/Chicago:20260908T160000
 DTEND;TZID=America/Chicago:20260908T182700
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-590522@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 147 minutes\nFormat: DCP\nDirector: Kiyoshi Kurosawa\
@@ -301,7 +301,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Bride of Frankenstein (4K Restoration)
 DTSTART;TZID=America/Chicago:20260908T190000
 DTEND;TZID=America/Chicago:20260908T201500
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-582004@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 75 minutes\nFormat: 4K DCP\nDirector: James Whale\nRe
@@ -316,7 +316,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Hope
 DTSTART;TZID=America/Chicago:20260909T190000
 DTEND;TZID=America/Chicago:20260909T213700
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-582154@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 157 minutes\nFormat: DCP\nDirector: Na Hong-jin\nRele
@@ -330,7 +330,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Ace in the Hole (35MM)
 DTSTART;TZID=America/Chicago:20260910T130000
 DTEND;TZID=America/Chicago:20260910T145200
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-582044@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 112 minutes\nFormat: 35mm Film\nDirector: Billy Wilde
@@ -344,7 +344,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Hope
 DTSTART;TZID=America/Chicago:20260910T161500
 DTEND;TZID=America/Chicago:20260910T185200
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-582155@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 157 minutes\nFormat: DCP\nDirector: Na Hong-jin\nRele
@@ -358,7 +358,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Ace in the Hole (35MM)
 DTSTART;TZID=America/Chicago:20260910T193000
 DTEND;TZID=America/Chicago:20260910T212200
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-582046@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 112 minutes\nFormat: 35mm Film\nDirector: Billy Wilde
@@ -372,7 +372,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Hope
 DTSTART;TZID=America/Chicago:20260911T150000
 DTEND;TZID=America/Chicago:20260911T173700
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-584153@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 157 minutes\nFormat: DCP\nDirector: Na Hong-jin\nRele
@@ -387,7 +387,7 @@ SUMMARY:🎬 ROUTE 66: THE MAIN STREET OF AMERICA - Missouri State Premier
  e!
 DTSTART;TZID=America/Chicago:20260911T190000
 DTEND;TZID=America/Chicago:20260911T210000
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-560152@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 120 minutes\nFormat: DCP Join us for a special Route 
@@ -421,7 +421,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Cars
 DTSTART;TZID=America/Chicago:20260912T133000
 DTEND;TZID=America/Chicago:20260912T152700
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-589475@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 117 minutes\nFormat: DCP\nDirector: John Lasseter\nRe
@@ -435,7 +435,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Little Miss Sunshine
 DTSTART;TZID=America/Chicago:20260912T160000
 DTEND;TZID=America/Chicago:20260912T174200
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-589670@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 102 minutes\nFormat: 4K DCP\nDirector: Jonathan Dayto
@@ -449,7 +449,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 National Lampoon's Vacation
 DTSTART;TZID=America/Chicago:20260912T181500
 DTEND;TZID=America/Chicago:20260912T195400
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-589682@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 99 minutes\nFormat: DCP\nDirector: Harold Ramis\nRele
@@ -463,7 +463,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Hope
 DTSTART;TZID=America/Chicago:20260912T203000
 DTEND;TZID=America/Chicago:20260912T230700
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-582159@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 157 minutes\nFormat: DCP\nDirector: Na Hong-jin\nRele
@@ -477,7 +477,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Paper Moon
 DTSTART;TZID=America/Chicago:20260913T123000
 DTEND;TZID=America/Chicago:20260913T141200
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-589510@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 102 minutes\nFormat: 4K DCP\nDirector: Peter Bogdanov
@@ -491,7 +491,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Midnight Run
 DTSTART;TZID=America/Chicago:20260913T144500
 DTEND;TZID=America/Chicago:20260913T165100
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-592586@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 126 minutes\nFormat: DCP\nDirector: Martin Brest\nRel
@@ -505,7 +505,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Hope
 DTSTART;TZID=America/Chicago:20260913T173000
 DTEND;TZID=America/Chicago:20260913T200700
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-584189@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 157 minutes\nFormat: DCP\nDirector: Na Hong-jin\nRele
@@ -519,7 +519,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Hope
 DTSTART;TZID=America/Chicago:20260914T190000
 DTEND;TZID=America/Chicago:20260914T213700
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-584155@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 157 minutes\nFormat: DCP\nDirector: Na Hong-jin\nRele
@@ -533,7 +533,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Hope
 DTSTART;TZID=America/Chicago:20260915T154500
 DTEND;TZID=America/Chicago:20260915T182200
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-588869@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 157 minutes\nFormat: DCP\nDirector: Na Hong-jin\nRele
@@ -547,7 +547,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Stagecoach
 DTSTART;TZID=America/Chicago:20260915T190000
 DTEND;TZID=America/Chicago:20260915T203600
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-582006@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 96 minutes\nFormat: DCP\nDirector: John Ford\nRelease
@@ -561,7 +561,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Hope
 DTSTART;TZID=America/Chicago:20260916T160000
 DTEND;TZID=America/Chicago:20260916T183700
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-588871@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 157 minutes\nFormat: DCP\nDirector: Na Hong-jin\nRele
@@ -575,7 +575,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Starship Troopers
 DTSTART;TZID=America/Chicago:20260916T193000
 DTEND;TZID=America/Chicago:20260916T213900
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-588178@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 129 minutes\nFormat: DCP\nDirector: Paul Verhoeven\nR
@@ -589,7 +589,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Witness for the Prosecution
 DTSTART;TZID=America/Chicago:20260917T130000
 DTEND;TZID=America/Chicago:20260917T145600
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-582049@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 116 minutes\nFormat: DCP\nDirector: Billy Wilder\nRel
@@ -603,7 +603,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Hope
 DTSTART;TZID=America/Chicago:20260917T160000
 DTEND;TZID=America/Chicago:20260917T183700
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-584154@hipointe-calendar
 SEQUENCE:2
 DESCRIPTION:Runtime: 157 minutes\nFormat: DCP\nDirector: Na Hong-jin\nRele
@@ -617,7 +617,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 American Doctor
 DTSTART;TZID=America/Chicago:20260917T170000
 DTEND;TZID=America/Chicago:20260917T183300
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-625873@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 93 minutes\nFormat: DCP\nDirector: Poh Si Teng\nRelea
@@ -631,7 +631,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 American Doctor
 DTSTART;TZID=America/Chicago:20260917T190000
 DTEND;TZID=America/Chicago:20260917T203300
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-625865@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 93 minutes\nFormat: DCP\nDirector: Poh Si Teng\nRelea
@@ -645,7 +645,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Late Fame
 DTSTART;TZID=America/Chicago:20260918T170000
 DTEND;TZID=America/Chicago:20260918T183700
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-596291@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 97 minutes\nFormat: DCP\nDirector: Kent Jones\nReleas
@@ -659,7 +659,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Late Fame
 DTSTART;TZID=America/Chicago:20260918T190000
 DTEND;TZID=America/Chicago:20260918T203700
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-592981@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 97 minutes\nFormat: DCP\nDirector: Kent Jones\nReleas
@@ -673,7 +673,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Dead Souls
 DTSTART;TZID=America/Chicago:20260918T210000
 DTEND;TZID=America/Chicago:20260918T222800
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-594894@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 88 minutes\nFormat: DCP\nDirector: Alex Cox\nRelease 
@@ -687,7 +687,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Late Fame
 DTSTART;TZID=America/Chicago:20260919T124500
 DTEND;TZID=America/Chicago:20260919T142200
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-594931@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 97 minutes\nFormat: DCP\nDirector: Kent Jones\nReleas
@@ -701,7 +701,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Dead Souls
 DTSTART;TZID=America/Chicago:20260919T150000
 DTEND;TZID=America/Chicago:20260919T162800
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-596268@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 88 minutes\nFormat: DCP\nDirector: Alex Cox\nRelease 
@@ -715,7 +715,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Late Fame
 DTSTART;TZID=America/Chicago:20260919T170000
 DTEND;TZID=America/Chicago:20260919T183700
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-596284@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 97 minutes\nFormat: DCP\nDirector: Kent Jones\nReleas
@@ -729,7 +729,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Dead Souls
 DTSTART;TZID=America/Chicago:20260919T190000
 DTEND;TZID=America/Chicago:20260919T202800
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-590529@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 88 minutes\nFormat: DCP\nDirector: Alex Cox\nRelease 
@@ -743,7 +743,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 The Man Who Fell to Earth (50th Anniversary)
 DTSTART;TZID=America/Chicago:20260919T210000
 DTEND;TZID=America/Chicago:20260919T231900
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-596292@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 139 minutes\nFormat: 4K DCP\nDirector: Nicolas Roeg\n
@@ -757,7 +757,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Witness for the Prosecution
 DTSTART;TZID=America/Chicago:20260920T120000
 DTEND;TZID=America/Chicago:20260920T135600
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-582051@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 116 minutes\nFormat: DCP\nDirector: Billy Wilder\nRel
@@ -771,7 +771,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Clue
 DTSTART;TZID=America/Chicago:20260920T150000
 DTEND;TZID=America/Chicago:20260920T163400
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-582163@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 94 minutes\nFormat: DCP\nDirector: Jonathan Lynn\nRel
@@ -785,7 +785,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Late Fame
 DTSTART;TZID=America/Chicago:20260920T173000
 DTEND;TZID=America/Chicago:20260920T190700
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-594966@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 97 minutes\nFormat: DCP\nDirector: Kent Jones\nReleas
@@ -799,7 +799,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Dead Souls
 DTSTART;TZID=America/Chicago:20260920T193000
 DTEND;TZID=America/Chicago:20260920T205800
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-596301@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 88 minutes\nFormat: DCP\nDirector: Alex Cox\nRelease 
@@ -813,7 +813,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Late Fame
 DTSTART;TZID=America/Chicago:20260921T163000
 DTEND;TZID=America/Chicago:20260921T180700
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-623977@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 97 minutes\nFormat: DCP\nDirector: Kent Jones\nReleas
@@ -827,7 +827,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 The Man Who Fell to Earth (50th Anniversary)
 DTSTART;TZID=America/Chicago:20260921T190000
 DTEND;TZID=America/Chicago:20260921T211900
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-591439@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 139 minutes\nFormat: 4K DCP\nDirector: Nicolas Roeg\n
@@ -841,7 +841,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Late Fame
 DTSTART;TZID=America/Chicago:20260922T163000
 DTEND;TZID=America/Chicago:20260922T180700
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-623981@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 97 minutes\nFormat: DCP\nDirector: Kent Jones\nReleas
@@ -855,7 +855,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 The Wizard of Oz (4K Restoration)
 DTSTART;TZID=America/Chicago:20260922T190000
 DTEND;TZID=America/Chicago:20260922T204200
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-582015@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 102 minutes\nFormat: 4K DCP\nDirector: Victor Fleming
@@ -869,7 +869,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Blue Jasmine
 DTSTART;TZID=America/Chicago:20260923T190000
 DTEND;TZID=America/Chicago:20260923T203900
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-582169@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 99 minutes\nDirector: Woody Allen\nRelease Year: 2013
@@ -883,7 +883,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Love in the Afternoon
 DTSTART;TZID=America/Chicago:20260924T130000
 DTEND;TZID=America/Chicago:20260924T151000
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-584102@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 130 minutes\nFormat: DCP\nDirector: Billy Wilder\nRel
@@ -897,7 +897,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Dead Calm
 DTSTART;TZID=America/Chicago:20260924T183000
 DTEND;TZID=America/Chicago:20260924T200600
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-624540@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 96 minutes\nFormat: DCP\nDirector: Phillip Noyce\nRel
@@ -911,7 +911,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 In the Mouth of Madness
 DTSTART;TZID=America/Chicago:20260924T203000
 DTEND;TZID=America/Chicago:20260924T220500
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-624541@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 95 minutes\nFormat: DCP\nDirector: John Carpenter\nRe
@@ -925,7 +925,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Union County
 DTSTART;TZID=America/Chicago:20260925T173000
 DTEND;TZID=America/Chicago:20260925T190700
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-599374@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 97 minutes\nFormat: 4K DCP\nDirector: Adam Meeks\nRel
@@ -939,7 +939,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Ha-Chan\, Shake Your Booty!
 DTSTART;TZID=America/Chicago:20260925T193000
 DTEND;TZID=America/Chicago:20260925T213200
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-605273@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 122 minutes\nFormat: DCP\nDirector: Josef Kubota Wlad
@@ -953,7 +953,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 CANNIBAL HOLOCAUST — UNCUT
 DTSTART;TZID=America/Chicago:20260925T220000
 DTEND;TZID=America/Chicago:20260925T233500
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-582183@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 95 minutes\nFormat: 4K DCP\nDirector: Ruggero Deodato
@@ -968,7 +968,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Nine to Five
 DTSTART;TZID=America/Chicago:20260926T123000
 DTEND;TZID=America/Chicago:20260926T142000
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-605286@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 110 minutes\nFormat: DCP\nDirector: Colin Higgins\nRe
@@ -982,7 +982,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Steel Magnolias
 DTSTART;TZID=America/Chicago:20260926T150000
 DTEND;TZID=America/Chicago:20260926T165800
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-613257@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 118 minutes\nFormat: DCP\nDirector: Herbert Ross\nRel
@@ -996,7 +996,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Union County
 DTSTART;TZID=America/Chicago:20260926T173000
 DTEND;TZID=America/Chicago:20260926T190700
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-605280@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 97 minutes\nFormat: 4K DCP\nDirector: Adam Meeks\nRel
@@ -1010,7 +1010,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Ha-Chan\, Shake Your Booty!
 DTSTART;TZID=America/Chicago:20260926T193000
 DTEND;TZID=America/Chicago:20260926T213200
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-605279@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 122 minutes\nFormat: DCP\nDirector: Josef Kubota Wlad
@@ -1024,7 +1024,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 CANNIBAL HOLOCAUST — UNCUT
 DTSTART;TZID=America/Chicago:20260926T220000
 DTEND;TZID=America/Chicago:20260926T233500
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-582184@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 95 minutes\nFormat: 4K DCP\nDirector: Ruggero Deodato
@@ -1039,7 +1039,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Love in the Afternoon
 DTSTART;TZID=America/Chicago:20260927T121500
 DTEND;TZID=America/Chicago:20260927T142500
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-582057@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 130 minutes\nFormat: DCP\nDirector: Billy Wilder\nRel
@@ -1053,7 +1053,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Union County
 DTSTART;TZID=America/Chicago:20260927T150000
 DTEND;TZID=America/Chicago:20260927T163700
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-613206@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 97 minutes\nFormat: 4K DCP\nDirector: Adam Meeks\nRel
@@ -1067,7 +1067,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Ha-Chan\, Shake Your Booty!
 DTSTART;TZID=America/Chicago:20260927T170000
 DTEND;TZID=America/Chicago:20260927T190200
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-613249@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 122 minutes\nFormat: DCP\nDirector: Josef Kubota Wlad
@@ -1081,7 +1081,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Union County
 DTSTART;TZID=America/Chicago:20260927T193000
 DTEND;TZID=America/Chicago:20260927T210700
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-613269@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 97 minutes\nFormat: 4K DCP\nDirector: Adam Meeks\nRel
@@ -1095,7 +1095,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Ha-Chan\, Shake Your Booty!
 DTSTART;TZID=America/Chicago:20260928T163000
 DTEND;TZID=America/Chicago:20260928T183200
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-613219@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 122 minutes\nFormat: DCP\nDirector: Josef Kubota Wlad
@@ -1109,7 +1109,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Union County
 DTSTART;TZID=America/Chicago:20260928T190000
 DTEND;TZID=America/Chicago:20260928T203700
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-613217@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 97 minutes\nFormat: 4K DCP\nDirector: Adam Meeks\nRel
@@ -1123,7 +1123,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Ha-Chan\, Shake Your Booty!
 DTSTART;TZID=America/Chicago:20260929T160000
 DTEND;TZID=America/Chicago:20260929T180200
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-613279@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 122 minutes\nFormat: DCP\nDirector: Josef Kubota Wlad
@@ -1137,7 +1137,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Now\, Voyager (4K Restoration)
 DTSTART;TZID=America/Chicago:20260929T190000
 DTEND;TZID=America/Chicago:20260929T205700
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-582017@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 117 minutes\nFormat: 4K DCP\nDirector: Irving Rapper\
@@ -1151,7 +1151,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Union County
 DTSTART;TZID=America/Chicago:20260930T163000
 DTEND;TZID=America/Chicago:20260930T180700
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-613344@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 97 minutes\nFormat: 4K DCP\nDirector: Adam Meeks\nRel
@@ -1165,7 +1165,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Three Kings (35MM)
 DTSTART;TZID=America/Chicago:20260930T190000
 DTEND;TZID=America/Chicago:20260930T205400
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-613330@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 114 minutes\nFormat: 35mm Film\nDirector: David O. Ru
@@ -1179,7 +1179,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Scooby-Doo (35MM)
 DTSTART;TZID=America/Chicago:20261002T190000
 DTEND;TZID=America/Chicago:20261002T202700
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-628440@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 87 minutes\nFormat: 35mm Film\nDirector: Raja Gosnell
@@ -1193,7 +1193,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Josie and the Pussycats
 DTSTART;TZID=America/Chicago:20261002T210000
 DTEND;TZID=America/Chicago:20261002T223800
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-628441@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 98 minutes\nFormat: DCP\nDirector: Deborah Kaplan\, H
@@ -1207,7 +1207,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Shaun the Sheep: The Beast of Mossy Bottom
 DTSTART;TZID=America/Chicago:20261003T123000
 DTEND;TZID=America/Chicago:20261003T135100
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-630134@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 81 minutes\nDirector: Matthew Walker\, Steve Cox\nRel
@@ -1222,7 +1222,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Shaun the Sheep: The Beast of Mossy Bottom
 DTSTART;TZID=America/Chicago:20261003T143000
 DTEND;TZID=America/Chicago:20261003T155100
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-630118@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 81 minutes\nDirector: Matthew Walker\, Steve Cox\nRel
@@ -1237,7 +1237,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 The History of Concrete
 DTSTART;TZID=America/Chicago:20261003T163000
 DTEND;TZID=America/Chicago:20261003T181100
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-630113@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 101 minutes\nFormat: DCP\nDirector: John Wilson\nRele
@@ -1251,7 +1251,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 The Lost Boys (35MM)
 DTSTART;TZID=America/Chicago:20261003T190000
 DTEND;TZID=America/Chicago:20261003T203700
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-631041@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 97 minutes\nFormat: 35mm Film\nDirector: Joel Schumac
@@ -1265,7 +1265,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Flesh for Frankenstein 3D
 DTSTART;TZID=America/Chicago:20261003T220000
 DTEND;TZID=America/Chicago:20261003T233500
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-631052@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 95 minutes\nFormat: DCP\nDirector: Paul Morrissey\nRe
@@ -1279,7 +1279,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 The Innocents
 DTSTART;TZID=America/Chicago:20261004T123000
 DTEND;TZID=America/Chicago:20261004T141000
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-630173@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 100 minutes\nFormat: 4K DCP\nDirector: Jack Clayton\n
@@ -1293,7 +1293,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Shaun the Sheep: The Beast of Mossy Bottom
 DTSTART;TZID=America/Chicago:20261004T150000
 DTEND;TZID=America/Chicago:20261004T162100
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-630131@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 81 minutes\nDirector: Matthew Walker\, Steve Cox\nRel
@@ -1308,7 +1308,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 The History of Concrete
 DTSTART;TZID=America/Chicago:20261004T170000
 DTEND;TZID=America/Chicago:20261004T184100
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-630132@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 101 minutes\nFormat: DCP\nDirector: John Wilson\nRele
@@ -1322,7 +1322,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 The History of Concrete
 DTSTART;TZID=America/Chicago:20261004T191500
 DTEND;TZID=America/Chicago:20261004T205600
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-637319@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 101 minutes\nFormat: DCP\nDirector: John Wilson\nRele
@@ -1336,7 +1336,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 The History of Concrete
 DTSTART;TZID=America/Chicago:20261005T163000
 DTEND;TZID=America/Chicago:20261005T181100
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-632545@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 101 minutes\nFormat: DCP\nDirector: John Wilson\nRele
@@ -1350,7 +1350,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 The History of Concrete
 DTSTART;TZID=America/Chicago:20261005T190000
 DTEND;TZID=America/Chicago:20261005T204100
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-637327@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 101 minutes\nFormat: DCP\nDirector: John Wilson\nRele
@@ -1364,7 +1364,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 The Innocents
 DTSTART;TZID=America/Chicago:20261005T190000
 DTEND;TZID=America/Chicago:20261005T204000
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-630133@hipointe-calendar
 SEQUENCE:2
 DESCRIPTION:Runtime: 100 minutes\nFormat: 4K DCP\nDirector: Jack Clayton\n
@@ -1378,7 +1378,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 The History of Concrete
 DTSTART;TZID=America/Chicago:20261006T163000
 DTEND;TZID=America/Chicago:20261006T181100
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-637336@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 101 minutes\nFormat: DCP\nDirector: John Wilson\nRele
@@ -1392,7 +1392,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Bataan
 DTSTART;TZID=America/Chicago:20261006T190000
 DTEND;TZID=America/Chicago:20261006T205400
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-582019@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 114 minutes\nFormat: DCP\nDirector: Tay Garnett\nRele
@@ -1406,7 +1406,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 The History of Concrete
 DTSTART;TZID=America/Chicago:20261007T180000
 DTEND;TZID=America/Chicago:20261007T194100
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-637338@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 101 minutes\nFormat: DCP\nDirector: John Wilson\nRele
@@ -1420,7 +1420,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Snowpiercer (35MM)
 DTSTART;TZID=America/Chicago:20261007T200000
 DTEND;TZID=America/Chicago:20261007T220700
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-637340@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 127 minutes\nFormat: 35mm Film\nDirector: Bong Joon H
@@ -1434,7 +1434,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Some Like It Hot (35MM)
 DTSTART;TZID=America/Chicago:20261008T130000
 DTEND;TZID=America/Chicago:20261008T150300
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-638384@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 123 minutes\nFormat: 35mm Film\nDirector: Billy Wilde
@@ -1448,7 +1448,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 The History of Concrete
 DTSTART;TZID=America/Chicago:20261008T163000
 DTEND;TZID=America/Chicago:20261008T181100
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-638444@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 101 minutes\nFormat: DCP\nDirector: John Wilson\nRele
@@ -1462,7 +1462,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Some Like It Hot (35MM)
 DTSTART;TZID=America/Chicago:20261008T190000
 DTEND;TZID=America/Chicago:20261008T210300
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-638387@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 123 minutes\nFormat: 35mm Film\nDirector: Billy Wilde
@@ -1476,7 +1476,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Never After Dark
 DTSTART;TZID=America/Chicago:20261009T170000
 DTEND;TZID=America/Chicago:20261009T184400
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-633141@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 104 minutes\nFormat: DCP\nDirector: Dave Boyle\nRelea
@@ -1490,7 +1490,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 The History of Concrete
 DTSTART;TZID=America/Chicago:20261009T193000
 DTEND;TZID=America/Chicago:20261009T211100
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-638433@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 101 minutes\nFormat: DCP\nDirector: John Wilson\nRele
@@ -1504,7 +1504,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Never After Dark
 DTSTART;TZID=America/Chicago:20261009T214500
 DTEND;TZID=America/Chicago:20261009T232900
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-633143@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 104 minutes\nFormat: DCP\nDirector: Dave Boyle\nRelea
@@ -1518,7 +1518,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Never After Dark
 DTSTART;TZID=America/Chicago:20261010T163000
 DTEND;TZID=America/Chicago:20261010T181400
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-633150@hipointe-calendar
 SEQUENCE:2
 DESCRIPTION:Runtime: 104 minutes\nFormat: DCP\nDirector: Dave Boyle\nRelea
@@ -1532,7 +1532,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 The History of Concrete
 DTSTART;TZID=America/Chicago:20261010T163000
 DTEND;TZID=America/Chicago:20261010T181100
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-638453@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 101 minutes\nFormat: DCP\nDirector: John Wilson\nRele
@@ -1546,7 +1546,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Never After Dark
 DTSTART;TZID=America/Chicago:20261010T190000
 DTEND;TZID=America/Chicago:20261010T204400
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-633147@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 104 minutes\nFormat: DCP\nDirector: Dave Boyle\nRelea
@@ -1560,7 +1560,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 The Lair of the White Worm
 DTSTART;TZID=America/Chicago:20261010T213000
 DTEND;TZID=America/Chicago:20261010T230300
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-632589@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 93 minutes\nFormat: DCP\nDirector: Ken Russell\nRelea
@@ -1574,7 +1574,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 The History of Concrete
 DTSTART;TZID=America/Chicago:20261011T150000
 DTEND;TZID=America/Chicago:20261011T164100
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-638462@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 101 minutes\nFormat: DCP\nDirector: John Wilson\nRele
@@ -1588,7 +1588,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Never After Dark
 DTSTART;TZID=America/Chicago:20261011T171500
 DTEND;TZID=America/Chicago:20261011T185900
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-637354@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 104 minutes\nFormat: DCP\nDirector: Dave Boyle\nRelea
@@ -1602,7 +1602,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Never After Dark
 DTSTART;TZID=America/Chicago:20261011T193000
 DTEND;TZID=America/Chicago:20261011T211400
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-639734@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 104 minutes\nFormat: DCP\nDirector: Dave Boyle\nRelea
@@ -1616,7 +1616,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Never After Dark
 DTSTART;TZID=America/Chicago:20261012T163000
 DTEND;TZID=America/Chicago:20261012T181400
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-639736@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 104 minutes\nFormat: DCP\nDirector: Dave Boyle\nRelea
@@ -1630,7 +1630,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Gothic (35MM)
 DTSTART;TZID=America/Chicago:20261012T190000
 DTEND;TZID=America/Chicago:20261012T202800
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-632582@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 88 minutes\nFormat: 35mm Film\nDirector: Ken Russell\
@@ -1644,7 +1644,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Laura (4K Restoration)
 DTSTART;TZID=America/Chicago:20261013T190000
 DTEND;TZID=America/Chicago:20261013T202800
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-582029@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 88 minutes\nFormat: 4K DCP\nDirector: Otto Preminger\
@@ -1658,7 +1658,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Inglourious Basterds (35MM)
 DTSTART;TZID=America/Chicago:20261014T190000
 DTEND;TZID=America/Chicago:20261014T213300
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-637355@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 153 minutes\nFormat: 35mm Film\nDirector: Quentin Tar
@@ -1672,7 +1672,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 The Seven Year Itch
 DTSTART;TZID=America/Chicago:20261015T130000
 DTEND;TZID=America/Chicago:20261015T144500
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-633083@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 105 minutes\nFormat: DCP\nDirector: Billy Wilder\nRel
@@ -1686,7 +1686,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 KEN RUSSELL’S THE DEVILS
 DTSTART;TZID=America/Chicago:20261015T190000
 DTEND;TZID=America/Chicago:20261015T205400
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-630181@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 114 minutes\nFormat: 4K DCP\nRelease Year: 1971\n\nht
@@ -1699,7 +1699,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 KEN RUSSELL’S THE DEVILS
 DTSTART;TZID=America/Chicago:20261016T223000
 DTEND;TZID=America/Chicago:20261017T002400
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-631259@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 114 minutes\nFormat: 4K DCP\nRelease Year: 1971\n\nht
@@ -1712,7 +1712,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 KEN RUSSELL’S THE DEVILS
 DTSTART;TZID=America/Chicago:20261017T143000
 DTEND;TZID=America/Chicago:20261017T162400
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-630184@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 114 minutes\nFormat: 4K DCP\nRelease Year: 1971\n\nht
@@ -1725,7 +1725,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 KEN RUSSELL’S THE DEVILS
 DTSTART;TZID=America/Chicago:20261017T170000
 DTEND;TZID=America/Chicago:20261017T185400
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-630183@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 114 minutes\nFormat: 4K DCP\nRelease Year: 1971\n\nht
@@ -1738,7 +1738,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 KEN RUSSELL’S THE DEVILS
 DTSTART;TZID=America/Chicago:20261017T193000
 DTEND;TZID=America/Chicago:20261017T212400
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-630182@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 114 minutes\nFormat: 4K DCP\nRelease Year: 1971\n\nht
@@ -1751,7 +1751,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 The Rocky Horror Picture Show
 DTSTART;TZID=America/Chicago:20261017T220000
 DTEND;TZID=America/Chicago:20261017T234000
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-604055@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 100 minutes\nFormat: DCP\nDirector: Jim Sharman\nRele
@@ -1765,7 +1765,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 KEN RUSSELL’S THE DEVILS
 DTSTART;TZID=America/Chicago:20261018T130000
 DTEND;TZID=America/Chicago:20261018T145400
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-630191@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 114 minutes\nFormat: 4K DCP\nRelease Year: 1971\n\nht
@@ -1778,7 +1778,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 KEN RUSSELL’S THE DEVILS
 DTSTART;TZID=America/Chicago:20261018T153000
 DTEND;TZID=America/Chicago:20261018T172400
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-630192@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 114 minutes\nFormat: 4K DCP\nRelease Year: 1971\n\nht
@@ -1791,7 +1791,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 KEN RUSSELL’S THE DEVILS
 DTSTART;TZID=America/Chicago:20261018T180000
 DTEND;TZID=America/Chicago:20261018T195400
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-630193@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 114 minutes\nFormat: 4K DCP\nRelease Year: 1971\n\nht
@@ -1804,7 +1804,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 KEN RUSSELL’S THE DEVILS
 DTSTART;TZID=America/Chicago:20261019T170000
 DTEND;TZID=America/Chicago:20261019T185400
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-630992@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 114 minutes\nFormat: 4K DCP\nRelease Year: 1971\n\nht
@@ -1817,7 +1817,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 KEN RUSSELL’S THE DEVILS
 DTSTART;TZID=America/Chicago:20261019T193000
 DTEND;TZID=America/Chicago:20261019T212400
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-630194@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 114 minutes\nFormat: 4K DCP\nRelease Year: 1971\n\nht
@@ -1830,7 +1830,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 KEN RUSSELL’S THE DEVILS
 DTSTART;TZID=America/Chicago:20261020T163000
 DTEND;TZID=America/Chicago:20261020T182400
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-630196@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 114 minutes\nFormat: 4K DCP\nRelease Year: 1971\n\nht
@@ -1843,7 +1843,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 The Lost Weekend (4K Restoration)
 DTSTART;TZID=America/Chicago:20261020T190000
 DTEND;TZID=America/Chicago:20261020T204100
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-582031@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 101 minutes\nFormat: 4K DCP\nDirector: Billy Wilder\n
@@ -1857,7 +1857,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 KEN RUSSELL’S THE DEVILS
 DTSTART;TZID=America/Chicago:20261021T170000
 DTEND;TZID=America/Chicago:20261021T185400
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-631000@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 114 minutes\nFormat: 4K DCP\nRelease Year: 1971\n\nht
@@ -1870,7 +1870,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 KEN RUSSELL’S THE DEVILS
 DTSTART;TZID=America/Chicago:20261021T193000
 DTEND;TZID=America/Chicago:20261021T212400
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-630195@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 114 minutes\nFormat: 4K DCP\nRelease Year: 1971\n\nht
@@ -1883,7 +1883,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Fjord
 DTSTART;TZID=America/Chicago:20261023T170000
 DTEND;TZID=America/Chicago:20261023T192600
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-631798@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 146 minutes\nFormat: DCP\nDirector: Cristian Mungiu\n
@@ -1897,7 +1897,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Fjord
 DTSTART;TZID=America/Chicago:20261023T200000
 DTEND;TZID=America/Chicago:20261023T222600
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-631799@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 146 minutes\nFormat: DCP\nDirector: Cristian Mungiu\n
@@ -1911,7 +1911,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Fjord
 DTSTART;TZID=America/Chicago:20261024T130000
 DTEND;TZID=America/Chicago:20261024T152600
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-631801@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 146 minutes\nFormat: DCP\nDirector: Cristian Mungiu\n
@@ -1925,7 +1925,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Fjord
 DTSTART;TZID=America/Chicago:20261024T160000
 DTEND;TZID=America/Chicago:20261024T182600
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-631800@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 146 minutes\nFormat: DCP\nDirector: Cristian Mungiu\n
@@ -1939,7 +1939,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Carrie
 DTSTART;TZID=America/Chicago:20261025T150000
 DTEND;TZID=America/Chicago:20261025T163800
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-629683@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 98 minutes\nFormat: 4K DCP\nDirector: Brian De Palma\
@@ -1953,7 +1953,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Fjord
 DTSTART;TZID=America/Chicago:20261025T180000
 DTEND;TZID=America/Chicago:20261025T202600
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-631802@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 146 minutes\nFormat: DCP\nDirector: Cristian Mungiu\n
@@ -1967,7 +1967,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Fjord
 DTSTART;TZID=America/Chicago:20261026T160000
 DTEND;TZID=America/Chicago:20261026T182600
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-633112@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 146 minutes\nFormat: DCP\nDirector: Cristian Mungiu\n
@@ -1981,7 +1981,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Fjord
 DTSTART;TZID=America/Chicago:20261026T190000
 DTEND;TZID=America/Chicago:20261026T212600
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-631803@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 146 minutes\nFormat: DCP\nDirector: Cristian Mungiu\n
@@ -1995,7 +1995,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Fjord
 DTSTART;TZID=America/Chicago:20261027T160000
 DTEND;TZID=America/Chicago:20261027T182600
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-633101@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 146 minutes\nFormat: DCP\nDirector: Cristian Mungiu\n
@@ -2009,7 +2009,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Anchors Aweigh (35MM)
 DTSTART;TZID=America/Chicago:20261027T190000
 DTEND;TZID=America/Chicago:20261027T212300
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-582033@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 143 minutes\nFormat: DCP\nDirector: George Sidney\nRe
@@ -2023,7 +2023,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Fjord
 DTSTART;TZID=America/Chicago:20261028T160000
 DTEND;TZID=America/Chicago:20261028T182600
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-633114@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 146 minutes\nFormat: DCP\nDirector: Cristian Mungiu\n
@@ -2037,7 +2037,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Fjord
 DTSTART;TZID=America/Chicago:20261028T190000
 DTEND;TZID=America/Chicago:20261028T212600
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-633116@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 146 minutes\nFormat: DCP\nDirector: Cristian Mungiu\n
@@ -2051,7 +2051,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 The Best Years of Our Lives (4K Restoration)
 DTSTART;TZID=America/Chicago:20261103T190000
 DTEND;TZID=America/Chicago:20261103T215100
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-582035@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 171 minutes\nFormat: 4K DCP\nDirector: William Wyler\
@@ -2066,7 +2066,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 A Streetcar Named Desire (35MM)
 DTSTART;TZID=America/Chicago:20261117T190000
 DTEND;TZID=America/Chicago:20261117T210500
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-582037@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 125 minutes\nFormat: 35mm Film\nDirector: Elia Kazan\
@@ -2080,7 +2080,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 The Found Footage Fest: Porcelain VHS Treasures
 DTSTART;TZID=America/Chicago:20261121T193000
 DTEND;TZID=America/Chicago:20261121T210000
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-604042@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 90 minutes\nFormat: Digital Projection Live Comedy wi
@@ -2107,7 +2107,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 The Band Wagon (35MM)
 DTSTART;TZID=America/Chicago:20261124T190000
 DTEND;TZID=America/Chicago:20261124T205200
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-582040@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 112 minutes\nFormat: 35mm Film\nDirector: Vincente Mi
@@ -2121,7 +2121,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 On the Waterfront (35MM)
 DTSTART;TZID=America/Chicago:20261201T190000
 DTEND;TZID=America/Chicago:20261201T204800
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-582042@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 108 minutes\nFormat: 35mm Film\nDirector: Elia Kazan\
@@ -2135,7 +2135,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Cameron Winter at Carnegie Hall
 DTSTART;TZID=America/Chicago:20261218T190000
 DTEND;TZID=America/Chicago:20261218T201500
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-632177@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 75 minutes\nFormat: 35mm Film\nDirector: Paul Thomas 
@@ -2150,7 +2150,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Cameron Winter at Carnegie Hall
 DTSTART;TZID=America/Chicago:20261219T170000
 DTEND;TZID=America/Chicago:20261219T181500
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-632182@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 75 minutes\nFormat: 35mm Film\nDirector: Paul Thomas 
@@ -2165,7 +2165,7 @@ BEGIN:VEVENT
 SUMMARY:🎬 Cameron Winter at Carnegie Hall
 DTSTART;TZID=America/Chicago:20261219T190000
 DTEND;TZID=America/Chicago:20261219T201500
-DTSTAMP:20260925T202900Z
+DTSTAMP:20260926T095142Z
 UID:hipointe-performance-632179@hipointe-calendar
 SEQUENCE:0
 DESCRIPTION:Runtime: 75 minutes\nFormat: 35mm Film\nDirector: Paul Thomas 
